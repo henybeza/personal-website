@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  color: maroon;
+  
+}
+.schools {
+  text-align:center;
+ 
+
+}
+
+
+
+
+.App-link {
+  color: #09d3ac;
+}
+
+.container {
+  text-align:center;
+ padding-top: 80px;
+}
+.page-header{
+  text-align: center;
+}
+
+.abtMe{
+  text-align: center;
+  color: red;
+
+}
+img{
+  height: 500px;
+  
+}
